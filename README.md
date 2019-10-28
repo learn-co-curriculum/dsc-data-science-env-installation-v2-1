@@ -1,5 +1,5 @@
 
-# Setting up a Professional Data Science Environment
+# Setting up a Professional Data Science Environment - Installation
 
 ## Introduction
 If you want to become a professional data scientist, it’s important to take a little time to “set yourself up for success” by installing and learning to use the right tools on your computer. In this lesson, you will install Git and Anaconda and in the next lesson you will setup a virtual environment. If you already have Git and Anaconda installed, feel free to skip to the next lesson to get started with cloning, virtual environment setup, and testing!
