@@ -1,5 +1,7 @@
 tags:
-  - intro
-languages:
-  - general
-resources: 0
+  - jupyter
+  - python
+
+languages: python
+
+resources: 
