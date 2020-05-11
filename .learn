@@ -1,7 +1,6 @@
 tags:
-  - jupyter
-  - python
-
-languages: python
-
-resources: 
+  - readme
+  - irb
+languages:
+  - ruby
+resources: 0
