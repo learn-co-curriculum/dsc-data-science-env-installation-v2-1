@@ -115,8 +115,7 @@ If it returns your email address, you’re set! If it returns nothing or display
 
 The easiest way to get set up with Python and Jupyter Notebook so you can start coding is to install the Anaconda distribution. Let’s go through the install instructions  for the two most common operating systems - Windows and MacOS.
 
-<details>
-<summary>Windows</summary>
+### Windows
 Go [here](https://www.anaconda.com/download/#windows) and click on the “download” button for the Python 3.x (currently 3.6) version of Anaconda.
 
 ![screen-15](http://curriculum-content.s3.amazonaws.com/data-science/screen-15.png)
@@ -164,9 +163,8 @@ It’ll open up a browser window which you can just close down.
 ![screen-25](http://curriculum-content.s3.amazonaws.com/data-science/screen-25.png)
 
 And that’s the process of installing Anaconda. The next step is to test your installation.
-</details>
 
-<details><summary>Mac</summary>
+### Mac
 Go [here](https://www.anaconda.com/download/#macos) and click on the “download” button for the Python 3.x (currently 3.6) version of Anaconda.
 
 ![screen-26](http://curriculum-content.s3.amazonaws.com/data-science/screen-26.png)
@@ -222,7 +220,6 @@ You should then see a final window informing you that the software was installed
 If you’re asked whether you’d like to move the installer to trash, click the “Move to trash” button.
 
 <img src='http://curriculum-content.s3.amazonaws.com/data-science/screen-39.png' width="600">
-</details>
 
 ## Testing your installation
 
