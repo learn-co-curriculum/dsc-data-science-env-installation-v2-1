@@ -28,8 +28,7 @@ Assuming you have a computer that meets the requirements, let’s start by getti
 ## Installing Git
 For each tool, we’ll provide installation instructions for the two most common operating systems - Windows and MacOS.
 
-<details>
-<summary>Windows</summary>
+### Windows
 Go [here](https://git-scm.com/download/win). Then double click on the downloaded exe file. It may open a window asking if you want to allow this application to make changes to your device. Just click “yes”. It will then open the installer. Click “next” to accept the license, and when you “select components” on the next screen make sure to keep the “Windows explorer integration” options checked.
 
 It is strongly suggested that you select any options to install and use the "Git Bash" shell, it's generally included by default. In short, the Git Bash shell will allow students with either Windows or Mac computers to run the same set of commands.
@@ -70,10 +69,8 @@ And then wait while Git is installed onto your computer.
 Finally, click finish to complete setup
 
 ![screen-8](http://curriculum-content.s3.amazonaws.com/data-science/screen-8.png)
-</details>
 
-<details>
-<summary>Mac</summary>
+### Mac
 If you are comfortable with the command line and have installed [homebrew](https://brew.sh/), you should install Git by running the command `brew install git` in a terminal window.  
 
 If you have no idea what the last paragraph meant, just go [here](https://git-scm.com/download/mac). Then double click on the downloaded dmg file and it will open a small finder window looking something like this (the exact name and version will change over time):
@@ -99,7 +96,6 @@ Click on the “open” button. You should then see an installer screen.
 Click “continue”, then “install”, enter your password when prompted, and when the installation is complete, click the “close” button.
 
 <img src='http://curriculum-content.s3.amazonaws.com/data-science/screen-14.png' width="650">
-</details>
 
 ## Confirming your git installation (all OS’s)
 
@@ -230,14 +226,13 @@ If you’re asked whether you’d like to move the installer to trash, click the
 
 ## Testing your installation
 
-<details><summary>Windows</summary>
+### Windows 
 To test your installation, on Windows, click on Start and then Anaconda Navigator in the program list (or search for Anaconda in the search bar and select Anaconda Navigator).
-</details>
 
-<details><summary>Mac</summary>
+### Mac
 On a Mac, open up the finder, and in the Applications folder, double click on Anaconda-Navigator.
-</details>
 
+### Windows and Mac
 From now on, screenshots will be from a Mac, but we’ll highlight any material differences in the experience between the OS’s.
 
 The Anaconda Navigator is one of the ways you’ll be able to run Jupyter Notebooks. Click on the “launch” button in the Jupyter notebook tile.
